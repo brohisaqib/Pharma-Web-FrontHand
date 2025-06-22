@@ -1,2 +1,3 @@
 # Pharma-Web-FrontHand
-This is the Front-hand of my first created , PHARMA WEB  Front page using HTML &amp; CSS
+🔹 This is a basic HTML and CSS practice project featuring a responsive layout and pharmacy-themed content.
+🔹 It includes a custom navigation bar, content sections, footer design, and Font Awesome integration.
